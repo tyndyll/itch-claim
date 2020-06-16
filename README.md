@@ -14,6 +14,11 @@ go install
 
 Alternatively download the binaries
 
+* [Linux](https://github.com/tyndyll/itch-claim/releases/download/v1.0/itch-claim)
+* [macOS](https://github.com/tyndyll/itch-claim/releases/download/v1.0/itch-claim.macOS)
+* [Linux](https://github.com/tyndyll/itch-claim/releases/download/v1.0/itch-claim.exe)
+
+
 ## Usage
 ```
 ➜  itch-claim
