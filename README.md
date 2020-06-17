@@ -5,6 +5,8 @@ and having to click to claim each one, I threw together a quick app that will go
 everything in that particular bundle will take about 5 hours (1700+ items), as there is a 5 second delay between 
 requests to be kind to the itch servers.
 
+This process will only work if you are authenticating with an itch.io username and password (i.e. not the Github sign on) and does not have the option to provide 2 factor authentication/One Time Password fields. 
+
 ## Install
 To build from source ensure you have a recent version of Go (1.12+) installed. Clone the repository and run 
 
